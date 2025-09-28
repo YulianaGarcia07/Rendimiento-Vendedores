@@ -1,0 +1,10 @@
+IdVenta,Vendedor,Mes,Region,Ventas
+1,Ana,Ene,Norte,1000
+2,Ana,Feb,Norte,1200
+3,Ana,Mar,Norte,900
+4,Pedro,Ene,Sur,2000
+5,Pedro,Feb,Sur,1800
+6,Pedro,Mar,Sur,2100
+7,Laura,Ene,Norte,1500
+8,Laura,Feb,Norte,1600
+9,Laura,Mar,Norte,1700
